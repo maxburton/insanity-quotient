@@ -16,32 +16,32 @@ var questions = [[
 	right:["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 	},
 	{question:"Name a poker hand",
-	wrong:["royal straight", "double flush", "five of a kind", "half house", "high queen", "aces high", "blackjack", "monty", "big kahuna", "back straight"],
+	wrong:["royale with cheese", "double flush", "five of a kind", "half house", "queen of a kind", "aces high", "blackjack", "monty", "big kahuna", "high noon"],
 	right:["full house", "royal flush", "straight", "high card", "two pair", "four of a kind"]
 	},
-	{question:"Name a european country",
+	{question:"Name a European country",
 	wrong:["china", "london", "georgia", "azerbaijan", "dubai", "isle of man", "jersey", "portufrance", "cyka blyatican", "moscow"],
-	right:["czech republic", "malta", "denmark", "montenegro", "algeria", "greece"]
+	right:["czech republic", "ireland", "denmark", "france", "spain", "germany"]
 	},
 	],[ 
 	/* Difficulty 1 */
 	{question:"Name an olympic sport",
-	wrong:["hexathlon", "decathlon", "swordfighting", "squash", "beekeeping", "motor racing", "600m", "16000m", "pole jump", "pommel"],
+	wrong:["oneathlon", "knitting", "swordfighting", "chess boxing", "beekeeping", "ultimate frisbee", "10m", "8000000m", "wide jump", "extreme horse"],
 	right:["football", "ping pong", "equestrian", "snowboarding", "luge", "polo", "biathlon"]
 	},
 	{question:"Name a football team",
-	wrong:["oxford rovers", "london park rangers", "lapaz fc", "miami mile high", "dresdon warriors", "ccr", "real santiago", "helmsquay", "big spirit shanghai", "shlakee 07"],
-	right:["wolves", "nottingham forest", "kaiser chiefs", "qpr", "sheffield wednesday", "old boys basel"]
+	wrong:["oxford lorries", "london park bandits", "lapaz fc", "miami mile high", "dresdon warriors", "ccp", "real vatican", "helmsquay", "big spirit shanghai", "paris 07"],
+	right:["chelsea", "nottingham forest", "liverpool", "qpr", "sheffield wednesday", "real madrid"]
 	},
 	{question:"Name a fake word",
-	wrong:["aa", "apoptosis", "croze", "eyewater", "howff", "illywhacker", "momism", "nainsook", "resurrection man", "sarmie"],
-	right:["willywhacker", "erection man", "bahooch", "bumbalina", "spudulike", "crankle"]
+	wrong:["hello", "this", "hence", "cream", "gold", "crink", "soap", "tree", "government", "river", "steel", "monster", "cowboy"],
+	right:["twiggle", "owchalowcha", "bahooch", "bumbalina", "spudulike", "crankle"]
 	},
 	],[
 	/* Difficulty 2 */
-	{question:"Name a Jedward song",
-	wrong:["lithium", "tell me your number", "under cheshire", "oh wow", "everyday allstar", "good vibrations", "in the dark", "hold me closer", "unstoppable", "techno babe"],
-	right:["put the green cape on", "free spirit", "luminous", "young love", "cant forget you", "pop rocket", "my miss america", "oh hell no"]
+	{question:"Name a real cartoon",
+	wrong:["jerry & tom", "the boppin boppos", "countdown animated", "the disease crew", "chumpy chumps", "toy corey", "gingerbread disaster", "my little penguin"],
+	right:["powerpuff girls", "dexter's lab", "looney tunes", "the flintstones", "ren & stimpy", "lilo & stitch"]
 	},
 	{question:"Name a simpsons character",
 	wrong:["frank wiggum", "donnie darko", "simon muntz", "duffguy", "chip", "paddy cloverface", "fishy the fish", "shelb e vil", "mr snrub", "abe van houten"],
